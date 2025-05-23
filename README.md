@@ -28,7 +28,7 @@ Bu proje, futbolcu performansını bulanık mantık kullanarak değerlendiren ve
 1. Python 3 yüklü olmalıdır.  
 2. Gerekli kütüphaneleri yükleyin:
 
-```bash
+
 pip install numpy scikit-fuzzy matplotlib
 
 
