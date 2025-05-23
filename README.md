@@ -32,30 +32,35 @@ Bu proje, futbolcu performansını bulanık mantık kullanarak değerlendiren ve
 pip install numpy scikit-fuzzy matplotlib
 
 
-Teknik Detaylar
-5 giriş ve 2 çıkış değişkenli bulanık mantık sistemi tasarlandı.
+Teknik Detaylar:
 
-Her değişken için uygun üyelik fonksiyonları belirlendi.
+-5 giriş ve 2 çıkış değişkenli bulanık mantık sistemi tasarlandı.
 
-Kurallar futbolcunun sahadaki gerçek performansına uygun şekilde kurgulandı.
+-Her değişken için uygun üyelik fonksiyonları belirlendi.
 
-scikit-fuzzy kütüphanesi kullanılarak bulanık mantık hesaplamaları yapıldı.
+-Kurallar futbolcunun sahadaki gerçek performansına uygun şekilde kurgulandı.
 
-Tkinter arayüzü ile kolay veri giriş ve sonuç görüntüleme sağlandı.
+-scikit-fuzzy kütüphanesi kullanılarak bulanık mantık hesaplamaları yapıldı.
 
-Matplotlib ile sonuçların grafiksel gösterimi yapıldı.
+-Tkinter arayüzü ile kolay veri giriş ve sonuç görüntüleme sağlandı.
+
+-Matplotlib ile sonuçların grafiksel gösterimi yapıldı.
 
 
 Kullanılan Teknolojiler
-Python 3
+-Python 3
 
-Tkinter
+-Tkinter
 
-NumPy
+-NumPy
 
-scikit-fuzzy
+-scikit-fuzzy
 
-Matplotlib
+-Matplotlib
+
+![Ekran Alıntısı17](https://github.com/user-attachments/assets/5e4de2f6-fb90-45cc-bcb0-1e957938594f)
+
+
 
 
 
